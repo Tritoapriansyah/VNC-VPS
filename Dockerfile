@@ -47,6 +47,7 @@ RUN set -ex; \
 	ibus-gtk \
 	ibus-gtk3 \
 	ibus-qt4 \
+	obs-studio\
 	openssh-server \
     && apt-get autoclean \
     && apt-get autoremove \
